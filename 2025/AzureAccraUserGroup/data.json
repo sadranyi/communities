@@ -1,0 +1,32 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "sadranyi",
+      "frankodoom",
+      "Clifftech123"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Accra .NET & Azure User Group",
+    "Country": "Ghana",
+    "Url": "https://yourcommunity.something/",
+    "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/{Your sessionize event Id}/view/Sessions",
+    "SessionizeApiId": "zzkcol7x",
+    "SessionizeEventName": "https://sessionize.com/global-azure-bootcamp-2025-accra",
+    "Logo": {
+      "Description": "Accra .NET & Azure User Group logo.",
+      "File": "accranetazure.png"
+    },
+    "Locations": [
+      {
+        "Description": "Accra .NET & Azure User Group",
+        "Name": "Accra",
+        "Address": "Accra, Ghana",
+        "Description_Lat_Lon": "5.599600, -0.182020",
+        "Latitude": 5.599600,
+        "Longitude": -0.182020
+      }
+    ]
+  }
+}
